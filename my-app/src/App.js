@@ -5,8 +5,8 @@ import img1 from "./image/icon1.png"
 import img2 from "./image/icon2.png"
 import img3 from "./image/icon3.png"
 import img4 from "./image/icon4.png"
-import logo from "./image/ironhack-logo-xs.png"
-import menu from "./image/menu-top-xs.png"
+// import logo from "./image/ironhack-logo-xs.png"
+// import menu from "./image/menu-top-xs.png"
 
 
 
