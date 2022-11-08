@@ -1,0 +1,14 @@
+* {
+    background-color: black;
+    padding: 50px;
+
+}
+
+.title {
+    color: white
+}
+
+.paragraph {
+    font-size: large;
+    color: white;
+}
